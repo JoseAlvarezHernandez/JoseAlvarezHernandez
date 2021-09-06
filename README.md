@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoseAlvarezHernandez
 - 👀 I’m interested in software development, freelancer
-- 🌱 I’m currently learning Ruby on Rails
+-
 - 💞️ I’m looking to collaborate on freelance Projects | Open Source Projects
 - 📫 How to reach me : alvarez_3993@hotmail.com
 
