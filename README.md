@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @JoseAlvarezHernandez
+# 👋 Hi, I’m Jose Alvarez
 - 👀 I’m interested in Software Development 
 - 💞️ I’m looking to collaborate on freelance Projects | Open Source Projects
 - 📫 How to reach me : alvarez_3993@hotmail.com
