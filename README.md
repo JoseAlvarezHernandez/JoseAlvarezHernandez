@@ -11,8 +11,8 @@ Currently i'm working on private sectors, but always open to colaborate on new p
 
 # 📫 How to reach me: alvarez_3993@hotmail.com
 You can reach me here 
- - (LinkedIn)[https://www.linkedin.com/in/josedejesusalvarezhernandez]
- - (Instagram)[https://www.instagram.com/alvarezhjj]
+ - [LinkedIn](https://www.linkedin.com/in/josedejesusalvarezhernandez)
+ - [Instagram](https://www.instagram.com/alvarezhjj)
 
 ## Current Stack 
 
