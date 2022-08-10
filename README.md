@@ -9,7 +9,7 @@ Currently i'm working on private sectors, but always open to colaborate on new p
 - 🖥 Front end Developer
 - 💞️ I’m looking to collaborate on freelance Projects | Open Source Projects
 
-# 📫 How to reach me: alvarez_3993@hotmail.com
+# 📫 How to reach me
 You can reach me here 
  - [LinkedIn](https://www.linkedin.com/in/josedejesusalvarezhernandez)
  - [Instagram](https://www.instagram.com/alvarezhjj)
