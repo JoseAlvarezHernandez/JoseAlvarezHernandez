@@ -16,12 +16,35 @@ You can reach me here
 
 ## Current Stack 
 
-```text
-Javascript  ████████░░     80%
-Typescript  ██████░░░░     60%
-React.      ███████░░░     80%
-React Query ██████░░░░     60%
-Styled Comp █████░░░░░     40%
-CSS         ████████░░     80%
-SASS        █████░░░░░     40%
-```
+<table>
+ <tr>
+  <td>
+  <table>
+   <tr>
+    <td>Javascript</td>
+    <td>████████░░ 80%</td>
+   <tr/>
+   <tr>
+    <td>Typescript</td>
+    <td>██████░░░░ 60%</td>
+   <tr/>
+   <tr>
+    <td>React</td>
+    <td>████████░░ 80%</td>
+   <tr/>
+   <tr>
+    <td>ReactQuery</td>
+    <td██████░░░░ 60%</td>
+   <tr/>
+   <tr>
+    <td>Styled Comp</td>
+    <td>██████░░░░     60%</td>
+   <tr/>
+  </table>
+  </td>
+  <td>
+    <a href="https://app.daily.dev/jdbell"><img src="https://api.daily.dev/devcards/b875ac514a214789992131dcd43646fc.png?r=ymm" width="400" alt="Jose's Dev Card"/></a>
+  </td>
+ </tr>
+</table>
+
