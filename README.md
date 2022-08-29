@@ -43,7 +43,9 @@ You can reach me here
   </table>
   </td>
   <td>
-    <a href="https://app.daily.dev/jdbell"><img src="https://api.daily.dev/devcards/b875ac514a214789992131dcd43646fc.png?r=ymm" width="400" alt="Jose's Dev Card"/></a>
+    <a href="https://app.daily.dev/jdbell">
+    <img src="https://github.com/JoseAlvarezHernandez/JoseAlvarezHernandez/blob/main/devcard.svg" width="400" alt="Jose's Dev Card"/>
+    </a>
   </td>
  </tr>
 </table>
