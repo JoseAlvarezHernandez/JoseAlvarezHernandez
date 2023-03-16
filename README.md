@@ -1,7 +1,5 @@
 # 👋 Hi Everyone
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JoseAlvarezHdz1&color=2c2c2c)
-
 # About Me
 Currently i'm working on private sectors, but always open to colaborate on new projects
 
