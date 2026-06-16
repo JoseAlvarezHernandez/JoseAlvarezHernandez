@@ -3,7 +3,7 @@
 # About Me
 Currently i'm working on private sectors, but always open to colaborate on new projects
 
-[![React Mid-Level Certificate](https://img.shields.io/badge/React_Certified-Mid--Level-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a1dec699-9223-431a-8671-a795476ced25)[![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a1c28d9a-27b2-4569-954f-424fcc2f5f30)
+[![React Senior Certificate](https://img.shields.io/badge/React_Certified-Senior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a2098f76-761d-4c05-9ca4-a8f0a521c249)
 
 - 👀 I’m interested in Software Development 
 - 🖥 Front end Developer
